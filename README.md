@@ -355,27 +355,6 @@ The `.def` file should be committed to Git; the large `.sif` normally should not
 
 ---
 
-## Git recommendations
-
-A minimal `.gitignore` entry is:
-
-```gitignore
-*.sif
-```
-
-You may also want to ignore large model checkpoints and local outputs:
-
-```gitignore
-*.sif
-*.ckpt
-*.pt
-*.pth
-__pycache__/
-.ipynb_checkpoints/
-```
-
----
-
 ## Notes and limitations
 
 - The image is aimed at **general scientific Python, tabular ML, deep learning, neuroscience, and biomedical/omics analysis**.
