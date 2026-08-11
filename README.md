@@ -1,4 +1,4 @@
-# General AI/ML Apptainer Container for Berzelius
+# General AI/ML Apptainer Setup for Berzelius HPC
 
 A GPU **Apptainer** environment for general scientific AI/ML workloads on the **Berzelius HPC system at NSC (Linköping University)**.
 
